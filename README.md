@@ -113,3 +113,7 @@ James@JPMendenhall.com
 ### Acknowledgments
 
 * Hat tip to the smart mirror community
+
+
+![img_20180719_092902](https://user-images.githubusercontent.com/29556110/43372800-d56e2ea2-9372-11e8-9ea0-508b2b45990c.jpg)
+![img_20180719_093008](https://user-images.githubusercontent.com/29556110/43372801-d58123a4-9372-11e8-8e9b-db4cd798f4d2.jpg)
